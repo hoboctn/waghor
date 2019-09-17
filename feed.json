@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Waghor",
+    "description": "",
+    "home_page_url": "https://hoboctn.github.io/waghor",
+    "feed_url": "https://hoboctn.github.io/waghor/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cheka Aisya"
+    },
+    "items": [
+    ]
+}

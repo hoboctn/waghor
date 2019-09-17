@@ -9,5 +9,17 @@
         "name": "Cheka Aisya"
     },
     "items": [
+        {
+            "id": "https://hoboctn.github.io/waghor/static-cms.html",
+            "url": "https://hoboctn.github.io/waghor/static-cms.html",
+            "title": "Static CMS ",
+            "author": {
+                "name": "Cheka Aisya"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-17T23:59:35+07:00",
+            "date_modified": "2019-09-17T23:59:35+07:00"
+        }
     ]
 }

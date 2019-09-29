@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Waghor</title>
-    <link href="https://hoboctn.github.io/waghor/feed.xml" rel="self" />
-    <link href="https://hoboctn.github.io/waghor" />
-    <updated>2019-09-30T00:31:22+07:00</updated>
+    <link href="http://www.waghor.com/feed.xml" rel="self" />
+    <link href="http://www.waghor.com" />
+    <updated>2019-09-30T00:37:22+07:00</updated>
     <author>
         <name>Cheka Aisya</name>
     </author>
-    <id>https://hoboctn.github.io/waghor</id>
+    <id>http://www.waghor.com</id>
 
     <entry>
         <title>Static CMS </title>
         <author>
             <name>Cheka Aisya</name>
         </author>
-        <link href="https://hoboctn.github.io/waghor/static-cms.html"/>
-        <id>https://hoboctn.github.io/waghor/static-cms.html</id>
+        <link href="http://www.waghor.com/static-cms/"/>
+        <id>http://www.waghor.com/static-cms/</id>
 
         <updated>2019-09-17T23:59:35+07:00</updated>
             <summary></summary>

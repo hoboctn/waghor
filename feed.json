@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Waghor",
     "description": "",
-    "home_page_url": "http://www.waghor.com",
-    "feed_url": "http://www.waghor.com/feed.json",
+    "home_page_url": "https://www.waghor.com",
+    "feed_url": "https://www.waghor.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Cheka Aisya"
     },
     "items": [
         {
-            "id": "http://www.waghor.com/static-cms/",
-            "url": "http://www.waghor.com/static-cms/",
+            "id": "https://www.waghor.com/static-cms/",
+            "url": "https://www.waghor.com/static-cms/",
             "title": "Static CMS ",
             "author": {
                 "name": "Cheka Aisya"

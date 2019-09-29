@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://hoboctn.github.io/waghor/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://hoboctn.github.io/Waghor/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://hoboctn.github.io/waghor/</loc>
+<loc>https://hoboctn.github.io/Waghor/</loc>
 </url>
 <url>
-<loc>https://hoboctn.github.io/waghor/static-cms.html</loc>
+<loc>https://hoboctn.github.io/Waghor/static-cms.html</loc>
 <lastmod>2019-09-17T23:59:35+07:00</lastmod>
 </url>
 </urlset>

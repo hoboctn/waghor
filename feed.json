@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Waghor",
     "description": "",
-    "home_page_url": "https://hoboctn.github.io/waghor",
-    "feed_url": "https://hoboctn.github.io/waghor/feed.json",
+    "home_page_url": "https://hoboctn.github.io/Waghor",
+    "feed_url": "https://hoboctn.github.io/Waghor/feed.json",
     "user_comment": "",
     "author": {
         "name": "Cheka Aisya"
     },
     "items": [
         {
-            "id": "https://hoboctn.github.io/waghor/static-cms.html",
-            "url": "https://hoboctn.github.io/waghor/static-cms.html",
+            "id": "https://hoboctn.github.io/Waghor/static-cms.html",
+            "url": "https://hoboctn.github.io/Waghor/static-cms.html",
             "title": "Static CMS ",
             "author": {
                 "name": "Cheka Aisya"
